@@ -1,4 +1,4 @@
-#Homeyfyi.tech
+# Homeyfyi.tech
 ##Introduction
 Homeyfyi.tech leverages cutting-edge Multi-Mode Generative AI technology to revolutionize property assessment. By analyzing photographic and textual data, our platform offers a comprehensive evaluation of a property's condition, providing homeowners and potential buyers with an objective, in-depth analysis of a house's overall health, immediate concerns, and potential future issues.
 
