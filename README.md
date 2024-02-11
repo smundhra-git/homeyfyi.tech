@@ -3,11 +3,7 @@
 Homeyfyi.tech leverages cutting-edge Multi-Mode Generative AI technology to revolutionize property assessment. By analyzing photographic and textual data, our platform offers a comprehensive evaluation of a property's condition, providing homeowners and potential buyers with an objective, in-depth analysis of a house's overall health, immediate concerns, and potential future issues.
 ## Running the Application
 Download and decompress homeyfyi.tech.zip. It contains all the important files. Download and run flask and react on your local user. 
-Setup virtual environment in your preferred terminal. Use 
-# python3 api.py 
-to run the server on localhost. Use 
-# npm start
-to run the website.
+Setup virtual environment in your preferred terminal. Use # python3 api.py to run the server on localhost. Use # npm start to run the website.
 
 ## Features
 Comprehensive Health Summary: Utilizing AI, Homeyfyi.tech summarizes the overall health of a house, integrating insights from both images and text data.
