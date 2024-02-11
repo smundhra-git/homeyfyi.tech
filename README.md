@@ -1,1 +1,1 @@
-# homeyfyi.ai
+# homeyfyi.tech
